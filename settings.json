@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "skibidiZjeb.aternos.me:50098:",
+    "ip": "skibidiZjeb.aternos.me::",
     "port": 50098,
     "version": "",
     "try-creative": true

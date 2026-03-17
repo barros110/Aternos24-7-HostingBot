@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skibidiZjeb.aternos.me:",
+    "ip": "skibidiZjeb.aternos.me:50098:",
     "port": 50098,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,

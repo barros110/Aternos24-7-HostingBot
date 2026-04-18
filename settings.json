@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "sigiemka",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "Survivalem.aternos.me::",
-    "port": 16639,
+    "ip": "tester-daKh.aternos.me::",
+    "port": 63437,
     "version": 127,
     "try-creative": true
   },
